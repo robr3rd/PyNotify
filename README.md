@@ -1,4 +1,10 @@
 PyNotify
 ========
 
-Trigger desktop notifcations (notify-send) on a timer
+Trigger desktop notifications (notify-send) on a timer
+
+Requirements
+========
+*Linux
+*libnotify (for `notify-send`)
+*Python
